@@ -1,3 +1,4 @@
 1 pip install django-admin
 django-admin startproject XXX(project-name)
+django-admin startapp xxx(app-name)
 python manage.py runserver
